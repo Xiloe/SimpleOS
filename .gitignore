@@ -1,2 +1,5 @@
 # Ignore binaries
 *.bin
+
+# Ignore bochsrc file
+# .bochsrc
